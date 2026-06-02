@@ -31,11 +31,11 @@ linux-server-security/
 ├── docs/
 │   └── SGA_포트폴리오_기술문서.pdf
 └── screenshots/
-├── 01_방화벽_상태확인.png
-├── 02_root차단_확인.png
-├── 03_계정권한_분리.png
-├── 04_SSH키_인증확인.png
-└── 05_SSH서비스_상태.png
+    ├── 01_방화벽_상태확인.png
+    ├── 02_root차단_확인.png
+    ├── 03_계정권한_분리.png
+    ├── 04_SSH키_인증확인.png
+    └── 05_SSH서비스_상태.png
 
 ## 🔑 핵심 보안 설정
 
